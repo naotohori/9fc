@@ -17,3 +17,4 @@ https://www.sigbus.info/compilerbook
  + まずはセルフコンパイルを目指す。
  + Modern fortranの機能をできるだけ取り込んで、自由形式のソースをコンパイルできるようにする。
 
+
